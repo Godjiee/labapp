@@ -3,11 +3,22 @@
         background-color: #000;
         color: #fff;
     }
-    div:nth-child(1){
+    .media-div-a {
         background-color: red;
     }
 }
 
+@media (max-width: 480px) {
+    .media-div-a, .media-div-b, .media-div-c {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 420px) {
+    .media-div-b, .media-div-c{
+        width: 100%;
+    }
+}
 
 
 
