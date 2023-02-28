@@ -8,6 +8,16 @@ body {
     background-color: green;
 }
 
+.limp-div {
+    
+}
+
+.limp-img {
+    width: 600px;
+    max-width: 100%;
+}
+
+
 .font-size {
     font-size: 50px;
 }
