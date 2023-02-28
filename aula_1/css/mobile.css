@@ -1,0 +1,47 @@
+@media (min-width: 500px) {
+    body {
+        background-color: #000;
+        color: #fff;
+    }
+    div:nth-child(1){
+        background-color: red;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 600px) {
+    body {  
+        background-color: green;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 978px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+@media (min-width: 978px) {
+    body {
+        background-color: blue;
+    }
+} */
