@@ -8,8 +8,13 @@ body {
     background-color: green;
 }
 
+.main-section {
+    width: 100vw;
+    height: 100vh;
+}
+
 .limp-div {
-    
+    text-align: center;
 }
 
 .limp-img {
