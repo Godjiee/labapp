@@ -1,0 +1,9 @@
+@media (min-width: 1024px, max-width: 2000px) {
+    body {
+        background-color: #000;
+        color: #fff;
+    }
+    .media-div-a {
+        background-color: red;
+    }
+}
